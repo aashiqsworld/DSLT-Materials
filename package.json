@@ -1,0 +1,21 @@
+{
+  "name": "com.dslt.materials",
+  "version": "0.1.0",
+  "displayName": "DSLT Materials",
+  "description": "Materials and Shaders used by the Dreamscape Tempe Team at ASU",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.shadergraph": "14.0.11",
+    "com.unity.visualeffectgraph": "14.0.11"
+  },
+  "keywords": [
+    "Utility",
+    "Materials",
+    "Shaders"
+  ],
+  "author": {
+    "name": "Aashiq Shaikh",
+    "email": "aashiq.shaikh@asu.edu",
+    "url": "https://www.aashiqshaikh.com"
+  }
+}
