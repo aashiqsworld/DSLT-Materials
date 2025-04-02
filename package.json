@@ -1,6 +1,6 @@
 {
   "name": "com.dslt.materials",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "DSLT Materials",
   "description": "Materials and Shaders used by the Dreamscape Tempe Team at ASU",
   "unity": "2022.3",

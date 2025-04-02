@@ -918,7 +918,7 @@
         },
         "preventRotation": false
     },
-    "m_Path": "Shader Graphs",
+    "m_Path": "DSLT",
     "m_GraphPrecision": 1,
     "m_PreviewMode": 2,
     "m_OutputNode": {
@@ -2232,7 +2232,7 @@
     "m_StageCapability": 3,
     "m_BareResource": false,
     "m_Texture": {
-        "m_SerializedTexture": "{\"texture\":{\"instanceID\":0}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "m_DefaultType": 0
@@ -3729,7 +3729,7 @@
     "m_Title": "FRESNEL",
     "m_Position": {
         "x": -1997.333251953125,
-        "y": 242.66656494140626
+        "y": 242.6666259765625
     }
 }
 
@@ -5513,10 +5513,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -165.91368103027345,
-            "y": 604.0862426757813,
-            "width": 216.0,
-            "height": 318.6666259765625
+            "x": -23.3333740234375,
+            "y": 873.9998779296875,
+            "width": 216.0001220703125,
+            "height": 318.6669921875
         }
     },
     "m_Slots": [
@@ -6023,7 +6023,7 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "m_SerializedTexture": "{\"texture\":{\"instanceID\":0}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "isMainTexture": true,

@@ -4,7 +4,7 @@ Unity package that provides all standard materials for the Dreamscape Learn Temp
 
 ## Installation
 
-1. Open the Unity Package Manager window.
+1. Open the Unity Package Manager window from the dropdown menu (Window -> Package Manager)
 2. Press the plus (+) button at the top left corner and select "Add package from git URL"
 3. Paste `https://github.com/aashiqsworld/DSLT-Materials.git` into the text box and press "Add"
 
