@@ -9,4 +9,6 @@ Unity package that provides all standard materials for the Dreamscape Learn Temp
 3. Paste `https://github.com/aashiqsworld/DSLT-Materials.git` into the text box and press "Add"
 
 ## Usage
+All shaders in this package are automatically added as options to Unity's shader dropdown menu.
 
+After creating a material, click the Shader dropdown menu at the top of the inspector. Click the "DSLT" option and select the shader you'd like to use. 
